@@ -39,3 +39,6 @@ package-lock.json
 # Build caches
 .cache
 coverage
+
+src/firebase.js
+.env
